@@ -1,0 +1,12 @@
+.heading
+{
+  font-size:larger;
+  color:blue;
+  text-align:center;
+  text-decoration:underline;
+  text-transform:uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: italic;
+  
+}
